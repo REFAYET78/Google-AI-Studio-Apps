@@ -1,0 +1,6 @@
+{
+  "name": "Cadence",
+  "description": "Craft structured, time-boxed meeting agendas with topic summaries, action items, and stakeholder assignments from any Word, Markdown, Text, or PDF document.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
